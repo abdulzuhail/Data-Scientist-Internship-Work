@@ -1,0 +1,101 @@
+Business ID,Business Name,Industry,Loan Amount (USD),Loan Purpose,Annual Revenue (USD),Cash Flow (USD),Loan Application Stated Revenue (USD),Loan Application Stated Profit (USD),Actual Revenue (USD),Actual Profit (USD),Unusual Transactions,External Market Conditions,Loan Repayment Status,Fraud Indicator
+BIZ001,Company_1,Manufacturing,64541,Equipment Purchase,870817,222438,830400,218425,879392,196016,Yes,Moderate,Delayed,0
+BIZ002,Company_2,Healthcare,394798,Expansion,703326,185934,751033,167635,744821,229682,No,Moderate,Delayed,0
+BIZ003,Company_3,Healthcare,265949,Debt Consolidation,459463,86666,411878,73702,438395,68561,No,Good,Delayed,0
+BIZ004,Company_4,Healthcare,379951,Working Capital,712442,199802,699408,184896,657033,237685,Yes,Bad,Defaulted,1
+BIZ005,Company_5,Agriculture,115419,Working Capital,123352,247433,130577,252789,119913,223138,No,Good,Paid,0
+BIZ006,Company_6,Healthcare,238264,Working Capital,478604,-34418,504739,-26347,553442,-25704,Yes,Bad,Defaulted,1
+BIZ007,Company_7,Manufacturing,490823,Equipment Purchase,679758,170088,714487,165523,621599,174378,No,Moderate,Defaulted,0
+BIZ008,Company_8,Agriculture,215113,Expansion,239613,162432,201872,155318,142802,140596,Yes,Good,Defaulted,1
+BIZ009,Company_9,Agriculture,382711,Debt Consolidation,127658,284378,94029,296013,33523,292465,Yes,Good,Delayed,0
+BIZ010,Company_10,Agriculture,383391,Working Capital,756688,89173,770495,80296,751855,110031,No,Moderate,Paid,0
+BIZ011,Company_11,Healthcare,373982,Expansion,136244,75838,176062,78317,183373,67035,Yes,Bad,Delayed,0
+BIZ012,Company_12,Manufacturing,114091,Debt Consolidation,730128,101962,724952,93528,672858,139952,Yes,Moderate,Paid,0
+BIZ013,Company_13,Healthcare,220920,Equipment Purchase,791246,158266,757507,176374,716184,120876,Yes,Bad,Defaulted,1
+BIZ014,Company_14,Agriculture,353907,Equipment Purchase,461882,125791,434091,118934,468823,130665,Yes,Moderate,Paid,0
+BIZ015,Company_15,Retail,462691,Working Capital,655051,-1444,657043,11038,734503,-19689,No,Moderate,Paid,0
+BIZ016,Company_16,Healthcare,293031,Working Capital,898352,-19989,931909,-13177,811063,865,Yes,Bad,Defaulted,1
+BIZ017,Company_17,Retail,299031,Expansion,987543,246875,962735,265889,982620,262614,Yes,Bad,Paid,0
+BIZ018,Company_18,Healthcare,158978,Equipment Purchase,454075,261077,439772,267305,484452,286706,Yes,Moderate,Paid,0
+BIZ019,Company_19,Retail,353146,Working Capital,743900,17442,719543,24825,743968,3457,Yes,Good,Paid,0
+BIZ020,Company_20,Agriculture,408561,Working Capital,846369,126810,839775,138475,933757,176737,No,Moderate,Paid,0
+BIZ021,Company_21,Technology,442886,Expansion,476472,50833,506849,60358,551271,45990,No,Bad,Delayed,0
+BIZ022,Company_22,Manufacturing,75135,Debt Consolidation,850324,-14744,879885,-32185,842760,-4144,Yes,Good,Paid,0
+BIZ023,Company_23,Manufacturing,112484,Expansion,188766,67832,147039,73146,133424,49388,No,Good,Delayed,0
+BIZ024,Company_24,Retail,470458,Debt Consolidation,542521,46182,515600,27401,617559,88011,No,Moderate,Paid,0
+BIZ025,Company_25,Technology,246243,Equipment Purchase,374020,127083,386342,147077,345345,115133,Yes,Good,Delayed,0
+BIZ026,Company_26,Agriculture,115208,Debt Consolidation,372044,29381,357455,43574,300912,65525,Yes,Moderate,Delayed,0
+BIZ027,Company_27,Technology,213755,Equipment Purchase,219052,90368,228898,107183,267068,91954,Yes,Good,Defaulted,1
+BIZ028,Company_28,Manufacturing,284518,Working Capital,344150,34862,305756,17022,271203,73515,Yes,Moderate,Paid,0
+BIZ029,Company_29,Manufacturing,287099,Expansion,545151,298434,526953,297063,621794,331513,No,Good,Delayed,0
+BIZ030,Company_30,Retail,499104,Working Capital,113899,20606,90787,34402,97057,27880,No,Moderate,Defaulted,0
+BIZ031,Company_31,Manufacturing,94102,Equipment Purchase,656779,66527,701810,55624,668363,91170,No,Good,Paid,0
+BIZ032,Company_32,Technology,202263,Debt Consolidation,583821,281740,588966,286546,494554,324570,No,Bad,Delayed,0
+BIZ033,Company_33,Agriculture,494141,Equipment Purchase,470653,-28076,461446,-15870,510882,-55870,No,Moderate,Paid,0
+BIZ034,Company_34,Technology,193684,Equipment Purchase,417803,62755,368642,47436,476399,66566,No,Bad,Defaulted,0
+BIZ035,Company_35,Retail,245329,Equipment Purchase,305133,150567,288694,164895,379430,123649,No,Moderate,Delayed,0
+BIZ036,Company_36,Agriculture,244766,Equipment Purchase,984125,129243,944219,118062,1036290,105765,No,Good,Paid,0
+BIZ037,Company_37,Manufacturing,358299,Expansion,772361,208665,775016,203527,870240,241978,Yes,Moderate,Delayed,0
+BIZ038,Company_38,Agriculture,458255,Debt Consolidation,895795,263369,886257,263532,985428,214030,No,Good,Delayed,0
+BIZ039,Company_39,Retail,498595,Working Capital,993033,16529,952475,19374,1038426,-32689,Yes,Good,Paid,0
+BIZ040,Company_40,Retail,492766,Working Capital,153039,84233,121038,76542,230168,68113,Yes,Good,Defaulted,1
+BIZ041,Company_41,Retail,495781,Debt Consolidation,137485,266497,134028,263665,179814,262390,Yes,Good,Paid,0
+BIZ042,Company_42,Agriculture,63470,Debt Consolidation,293565,268721,265832,285625,257566,304475,No,Moderate,Delayed,0
+BIZ043,Company_43,Healthcare,258853,Working Capital,673216,251857,699055,260853,689866,233904,Yes,Moderate,Paid,0
+BIZ044,Company_44,Agriculture,388093,Expansion,207442,120516,160344,103464,284844,156132,No,Good,Defaulted,0
+BIZ045,Company_45,Manufacturing,485259,Working Capital,316925,-31955,279576,-23778,341862,-31998,Yes,Moderate,Delayed,0
+BIZ046,Company_46,Manufacturing,72247,Working Capital,853133,140670,814008,139499,934911,99435,No,Bad,Paid,0
+BIZ047,Company_47,Retail,258222,Equipment Purchase,450318,157102,424158,145715,545034,199576,Yes,Moderate,Paid,0
+BIZ048,Company_48,Technology,454857,Debt Consolidation,399561,120272,385384,128120,337405,109453,No,Moderate,Defaulted,0
+BIZ049,Company_49,Retail,488930,Expansion,980144,273758,956450,257816,965831,297243,Yes,Good,Defaulted,1
+BIZ050,Company_50,Technology,495084,Working Capital,793818,103119,801013,89492,735757,96380,Yes,Bad,Paid,0
+BIZ051,Company_51,Healthcare,142024,Debt Consolidation,244377,941,221485,8886,218855,6150,No,Good,Defaulted,0
+BIZ052,Company_52,Technology,208291,Debt Consolidation,543773,10156,572658,-2656,521111,48331,No,Good,Defaulted,0
+BIZ053,Company_53,Agriculture,366375,Debt Consolidation,215807,239333,221909,247090,262962,190795,No,Bad,Defaulted,0
+BIZ054,Company_54,Manufacturing,173376,Expansion,551323,164864,517257,164748,566570,141566,No,Bad,Defaulted,0
+BIZ055,Company_55,Retail,404550,Working Capital,267699,168267,317332,176613,365650,119132,Yes,Good,Defaulted,1
+BIZ056,Company_56,Manufacturing,90221,Expansion,985806,75534,938344,57374,958934,124822,Yes,Moderate,Defaulted,1
+BIZ057,Company_57,Agriculture,404234,Expansion,365379,299527,370534,279542,460816,277213,Yes,Bad,Delayed,0
+BIZ058,Company_58,Manufacturing,433369,Expansion,818860,138063,862633,127336,873018,113299,Yes,Bad,Paid,0
+BIZ059,Company_59,Retail,493066,Equipment Purchase,690165,80848,660893,91594,630049,81225,No,Good,Defaulted,0
+BIZ060,Company_60,Retail,221285,Equipment Purchase,708717,210429,717196,204920,653521,204964,Yes,Good,Defaulted,1
+BIZ061,Company_61,Technology,398987,Debt Consolidation,913050,188085,876756,183330,823586,175742,No,Bad,Paid,0
+BIZ062,Company_62,Technology,417251,Working Capital,545461,-8501,526356,-12385,533487,15219,Yes,Good,Paid,0
+BIZ063,Company_63,Healthcare,398049,Expansion,232975,244572,201810,263730,183552,208190,No,Good,Paid,0
+BIZ064,Company_64,Technology,263270,Expansion,172764,85541,147046,82845,146226,65155,No,Bad,Delayed,0
+BIZ065,Company_65,Healthcare,122201,Working Capital,389603,-4891,340824,13481,473918,-9695,No,Moderate,Defaulted,0
+BIZ066,Company_66,Healthcare,191876,Working Capital,205305,149423,235667,138607,250302,118019,No,Bad,Delayed,0
+BIZ067,Company_67,Retail,240491,Equipment Purchase,200514,129798,169005,135666,101447,154375,Yes,Moderate,Paid,0
+BIZ068,Company_68,Technology,410812,Expansion,322328,267808,361232,282502,378083,237287,Yes,Bad,Delayed,0
+BIZ069,Company_69,Agriculture,123372,Expansion,544255,109671,548243,91137,542379,60728,No,Moderate,Paid,0
+BIZ070,Company_70,Manufacturing,158596,Expansion,516380,82153,476667,99473,434826,61301,Yes,Good,Delayed,0
+BIZ071,Company_71,Agriculture,372876,Working Capital,302292,168533,335689,152843,360618,141909,Yes,Moderate,Defaulted,1
+BIZ072,Company_72,Technology,471550,Expansion,416887,273870,428657,264386,511438,260261,No,Bad,Delayed,0
+BIZ073,Company_73,Manufacturing,383015,Expansion,999795,-32924,970410,-45609,930117,-4692,No,Good,Paid,0
+BIZ074,Company_74,Healthcare,433384,Debt Consolidation,750393,17721,746660,27956,820183,28195,Yes,Moderate,Defaulted,1
+BIZ075,Company_75,Manufacturing,81031,Equipment Purchase,649735,276049,637360,271113,619244,324861,Yes,Moderate,Paid,0
+BIZ076,Company_76,Retail,403976,Debt Consolidation,449700,-46094,406167,-60220,519041,-77162,No,Bad,Delayed,0
+BIZ077,Company_77,Agriculture,278086,Working Capital,234905,55685,259278,37750,181951,49462,Yes,Bad,Paid,0
+BIZ078,Company_78,Agriculture,373716,Equipment Purchase,813130,153867,780534,148444,884254,137109,Yes,Good,Defaulted,1
+BIZ079,Company_79,Healthcare,192239,Working Capital,549109,106570,527678,113050,494565,96455,No,Good,Delayed,0
+BIZ080,Company_80,Retail,96367,Debt Consolidation,930485,50320,975615,47968,917052,83431,No,Bad,Paid,0
+BIZ081,Company_81,Healthcare,341420,Working Capital,319351,133221,357052,135019,378472,85385,Yes,Bad,Paid,0
+BIZ082,Company_82,Retail,247925,Equipment Purchase,775426,164857,751937,161395,861688,147472,No,Good,Paid,0
+BIZ083,Company_83,Retail,407726,Equipment Purchase,767528,196482,730366,208907,757896,174806,No,Moderate,Paid,0
+BIZ084,Company_84,Technology,214367,Working Capital,784263,39029,830189,34665,843914,14500,No,Moderate,Delayed,0
+BIZ085,Company_85,Manufacturing,398655,Debt Consolidation,413037,-5785,408655,-7670,355857,-22988,No,Moderate,Defaulted,0
+BIZ086,Company_86,Agriculture,414026,Equipment Purchase,166533,-23458,139829,-13891,94932,-126,Yes,Bad,Paid,0
+BIZ087,Company_87,Technology,270690,Working Capital,677174,103741,696338,89273,611988,128103,Yes,Bad,Paid,0
+BIZ088,Company_88,Technology,398711,Expansion,994076,139938,961441,120719,943605,127950,Yes,Moderate,Defaulted,1
+BIZ089,Company_89,Healthcare,436520,Debt Consolidation,152735,184630,157151,188510,98413,195566,Yes,Good,Defaulted,1
+BIZ090,Company_90,Agriculture,327293,Working Capital,228341,918,200032,14868,217536,-28870,No,Bad,Paid,0
+BIZ091,Company_91,Technology,140864,Equipment Purchase,819780,287045,858777,289798,889233,331899,No,Bad,Defaulted,0
+BIZ092,Company_92,Manufacturing,343235,Expansion,885030,249434,858561,246159,899175,223784,No,Bad,Delayed,0
+BIZ093,Company_93,Healthcare,225664,Debt Consolidation,831633,195114,825512,214149,874102,194854,No,Good,Defaulted,0
+BIZ094,Company_94,Technology,321245,Equipment Purchase,733250,124485,725791,143237,637533,126758,Yes,Bad,Paid,0
+BIZ095,Company_95,Healthcare,248770,Equipment Purchase,719149,210145,748035,224105,651436,192893,No,Moderate,Delayed,0
+BIZ096,Company_96,Retail,390486,Debt Consolidation,587479,283954,558065,265134,611738,303398,Yes,Bad,Delayed,0
+BIZ097,Company_97,Technology,305663,Expansion,831768,189819,820796,205165,865220,186909,Yes,Good,Paid,0
+BIZ098,Company_98,Retail,102109,Working Capital,741403,148412,726117,152921,742884,162618,No,Moderate,Delayed,0
+BIZ099,Company_99,Technology,234368,Expansion,814403,521,795904,13852,911757,-45148,No,Good,Delayed,0
+BIZ100,Company_100,Agriculture,309188,Equipment Purchase,668556,249152,660900,239535,609360,250681,Yes,Good,Defaulted,1
